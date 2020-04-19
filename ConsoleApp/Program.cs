@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RpiRadio
+namespace ConsoleApp
 {
     class Program
     {
